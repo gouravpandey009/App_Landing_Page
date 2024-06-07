@@ -29,9 +29,13 @@ This project is a responsive landing page for a mobile application, designed usi
 ## Features
 
 ✨ Responsive layout optimized for both desktop and mobile devices.
+
 ✨ CSS Grid and Flexbox for flexible and dynamic page layout.
+
 ✨ Interactive elements with smooth hover effects.
+
 ✨ Dark mode toggle for enhanced user experience.
+
 ✨ Data fetched from a local JSON file for dynamic content.
 
 ## Setup Instructions
