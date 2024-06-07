@@ -47,8 +47,6 @@ To run this project locally, follow these steps:
 - HTML5
 - CSS3
 - JavaScript
-- Next.js (optional)
-- TypeScript (optional)
 
 ## Credits
 
